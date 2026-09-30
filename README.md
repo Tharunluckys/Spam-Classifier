@@ -50,7 +50,7 @@ This project uses **uv** for Python package and environment management.
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/Tharunluckys/ML-Notebooks.git>
+git clone <https://github.com/Tharunluckys/Spam-Classifier.git>
 cd <NLP/Spam.ipynb>
 ```
 
